@@ -1,0 +1,5 @@
+How to open portfolio webpage:
+
+1. Extract PortfolioWebsite folder
+2. Open PortfolioWebsite folder
+3. Open "index1" html file
